@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(225, 220, 210);
+    color: rgb(0, 0, 80);
+    font-family: Arial, sans-serif;
+}
+
+fieldset {
+    background-color: rgb(171, 159, 141);
+    color: rgb(178, 190, 181);
+    border-color: rgb(171, 159, 14);
+    font-family: Copperplate, sans-serif;
+}
+
+fieldset h2 {
+    color: black; /* Black font for Ms. Bertha Hallo */
+}
+
+div {
+    background-color: rgb(220, 220, 220);
+}
+
+p {
+    text-align: justify;
+}
+
+h2 {
+    font-family: Calibri, sans-serif;
+}
+
+marquee {
+    color: rgb(171, 159, 141);
+}
+
+figure {
+    background-color: rgb(220, 220, 220);
+}
+
+.bottom-line {
+    height: 2px;
+    background-color: rgb(141, 139, 121);
+    color: brown;
+}
