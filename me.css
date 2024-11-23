@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(215, 215, 235);
+    color: rgb(0, 0, 80);
+    font-family: Arial, sans-serif;
+}
+
+h1, h3 {
+    font-family: Calibri, sans-serif;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+figure {
+    margin: 20px auto;
+    text-align: center;
+}
+
+a {
+    color: rgb(0, 0, 139);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
